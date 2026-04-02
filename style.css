@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,5 +35,5 @@ button {
 
 .igual {
     grid-column: span 2;
-    background: orange;
+    background: rgb(68, 68, 68);
 }
